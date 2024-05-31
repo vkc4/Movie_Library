@@ -1,7 +1,7 @@
 import axios from "axios";
 import queryString from "query-string";
 
-const baseURL = "https://movie-library-n93d.onrender.com/api/v1";
+const baseURL = "https://movie-library-5rfq.onrender.com/api/v1";
 
 const publicClient = axios.create({
   baseURL,
