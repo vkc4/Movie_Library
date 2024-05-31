@@ -57,7 +57,7 @@ MovieLibrary is a responsive web application for browsing movies, similar to Net
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/MovieLibrary-frontend.git
+    git clone https://github.com/vkc4/Movie_library.git
     cd MovieLibrary-frontend
     ```
 
@@ -153,7 +153,7 @@ MovieLibrary Backend is a Node.js server built with Express. It provides RESTful
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/MovieLibrary-backend.git
+    git clone https://github.com/vkc4/Movie_library.git
     cd MovieLibrary-backend
     ```
 
